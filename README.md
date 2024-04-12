@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smoeCloud
-- 👀 I’m interested in IPFS\Go\Flutter
+- 👀 I’m interested in IPFS\Go\
 - 🌱 I’m currently learning IPFS
 - And still live
 <!---
